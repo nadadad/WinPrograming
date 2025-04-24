@@ -4,7 +4,7 @@
 int PassOrFail(int score);
 
 int main() {
-    int myScore = 50;
+    int myScore = 40;
     int result = PassOrFail(myScore);
 
 
